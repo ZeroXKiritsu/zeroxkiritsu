@@ -3,7 +3,7 @@
 ### About Me
 I am 24 years old, and am back-end software engineer<br>
   
-### Languages:
+### Programming, Markup Languages:
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/go-original.svg?size=128&color=7a6262" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
