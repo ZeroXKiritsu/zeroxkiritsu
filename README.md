@@ -36,7 +36,7 @@ I am 24 years old, and am back-end software engineer<br>
 - 🔭 I’m currently working on private flexible interface for working with embedded devices
 - 💬 Ask me about anything
 - 📫 How to reach me:
-  Email: ZeroXKiitsu@yandex.ru<br>
+  Email: zerox@zerosystem.ru<br>
   Discord ID：ZeroONeZ#9460<br>
   
 <hr>
