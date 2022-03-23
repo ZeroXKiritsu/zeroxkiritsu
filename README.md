@@ -27,7 +27,6 @@ I am 24 years old, and am back-end software engineer<br>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" />&nbsp;
 
 
 ### Operating Systems
@@ -35,7 +34,7 @@ I am 24 years old, and am back-end software engineer<br>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />&nbsp;
 
-- 🔭 I’m currently working on private flexible interface for working with embedded devices
+<!-- - 🔭 I’m currently working on private flexible interface for working with embedded devices -->
 - 💬 Ask me about anything
 - 📫 How to reach me:
   Email: zerox@zerosystem.ru<br>
