@@ -21,7 +21,7 @@ I am 24 years old, and am back-end software engineer<br>
 ### Tools and Frameworks
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;
