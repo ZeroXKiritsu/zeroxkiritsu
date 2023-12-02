@@ -57,4 +57,3 @@ I thoroughly enjoy the intricacies of developing robust backend solutions. The c
 [![ZeroXKirotsu's github stats](https://github-readme-stats.vercel.app/api?username=ZeroXKiritsu)](https://github.com/zeroxkiritsu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxkiritsu&layout=compact)](https://github.com/zeroxkiritsu)
-)
