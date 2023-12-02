@@ -11,8 +11,9 @@ I thoroughly enjoy the intricacies of developing robust backend solutions. The c
 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/kalen795/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Karen Gasparyan | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/variety0743"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Karen Gasparyan | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/kalen795/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Karen Gasparyan | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/variety0743"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Karen Gasparyan | Instagram" width="21px"/></a>
+</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
