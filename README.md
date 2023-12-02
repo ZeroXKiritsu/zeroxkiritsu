@@ -1,50 +1,59 @@
-<div align="center">
+<h3 align="center">
+Hi there, I'm Karen</a> 👋
+</h3>
 
-### About Me
-I am 24 years old, and am back-end software engineer<br>
-  
-### Programming, Markup Languages:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;	
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />&nbsp;
+<h2 align="center">
+I'm a Back-End Developer 💻!
+</h2>
 
-	
-### Database Systems
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
-
-### Tools and Frameworks
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
+I thoroughly enjoy the intricacies of developing robust backend solutions. The challenge of optimizing code and exploring innovative ways to enhance performance is what drives my passion. I find fulfillment in uncovering data inefficiencies and devising optimized algorithms. Moreover, delving into the world of backend architecture and exploring new ways to secure and streamline processes excites me. I'm constantly learning and adapting to refine my skills, ensuring that I create reliable and efficient backend systems that meet the demands of modern technology.
 
 
-### Operating Systems
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />&nbsp;
 
-<!-- - 🔭 I’m currently working on private flexible interface for working with embedded devices -->
-- 💬 Ask me about anything
-- 📫 How to reach me:
-  Email: zerox@zerosystem.ru<br>
-  Discord ID：ZeroONeZ#9460<br>
-  
-<hr>
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/kalen795/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Karen Gasparyan | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/variety0743"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Karen Gasparyan | Instagram" width="21px"/></a>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My old projects
+- My own BlockChain wallet
+- My own BlockChain
+- My own BlockChain SDK
+- My own BlockChain social network
+
+## 🌱 I'm currently learning
+
+- Firebase
+- BlockChain
+- Android and iOS API
+- Kernel Linux and Apple
+
+## 💼 Technical Skills
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
  
-<p>
-  <a href="https://github.com/ZeroXKiritsu">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZeroXKiritsu&hide_border=true&show_icons=true" alt="ZeroXKiritsu stats">
-  </a>
-</p>
-</div>
+</br>
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Stats 
+
+[![ZeroXKirotsu's github stats](https://github-readme-stats.vercel.app/api?username=ZeroXKiritsu)](https://github.com/zeroxkiritsu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxkiritsu&layout=compact)](https://github.com/zeroxkiritsu)
+)
